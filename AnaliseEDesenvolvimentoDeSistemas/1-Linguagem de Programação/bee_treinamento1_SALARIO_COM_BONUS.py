@@ -1,0 +1,2 @@
+nome = input('')
+salario

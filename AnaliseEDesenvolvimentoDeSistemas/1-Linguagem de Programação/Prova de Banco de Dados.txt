@@ -1,0 +1,52 @@
+1- "PERGUNTA"--> A primeira forma normal não proibe qual dos itens a seguir?
+  
+   "RESPOSTA"--> Chaves primarias 
+
+2- "PERGUNTA"--> Dos itens a seguir, qual está correto? 
+   
+   "RESPOSTA"--> Uma relação esquema R está na 3FN se ela estiver na 2FN e 
+                 nenhum atributo não primo, A, for transitivamente dependente
+                 da chave-primaria.
+
+3- "PERGUNTA"--> Dos itens a seguir, qual NÃO é uma caracteristica principal
+                 do SGBD ? 
+   
+   "RESPOSTA"--> Compactação de dados conceituais.
+
+4- "PERGUNTA"--> Com relação aos tipos de chaves, uma entidade forte tem qual
+                 caracteristica ?  
+
+   "RESPOSTA"--> Não possui chave estrangeira . 
+
+5- "PERGUNTA"--> Sobre seriação em trasições em banco de dados podemos afirmar
+                 corretamente ? 
+
+   "RESPOSTA"--> A seriação é uma propriedade que garante que independente da 
+                 ordem dos acessos aos dados feitos pelas transações, o 
+                 resultado final será o mesmo.
+
+6- "PERGUNTA"--> Qual é o objetivo mais elementar que o MER representa ?
+
+   "RESPOSTA"--> Entidade 
+
+7- "PERGUNTA"--> Qual multiplicidade de associacoes esta com osignificado ERRADO?
+  
+   "RESPOSTA"--> 0 ... 1 significa zero ATÉ um 
+   
+8- "PERGUNTA"--> Dos itens a seguir, qual NÃO é uma notação valida de Diagrama 
+                 Entidade-Relacionamento ?
+   
+   "RESPOSTA"--> Atributo Total
+
+9- "PERGUNTA"--> Qual o significado da Sigla SGBD ?
+
+   "RESPOSTA"--> Sistema Gerenciador de Banco de Dados
+
+10- "PERGUNTA"--> A descricão de banco de dados, segundo um modelo de dados 
+                  é chamda de : 
+
+    "RESPOSTA"--> Metadados
+
+
+ 
+ 

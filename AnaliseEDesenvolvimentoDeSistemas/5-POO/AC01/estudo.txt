@@ -1,0 +1,16 @@
+_______________________________
+
+PROGRAMAÇÃO ORIENTADA A OBJETOS
+_______________________________
+
+O que é POO ? 
+
+-> A sigla siginifica Programação Orientada a Objetos isso é um paradigma de 
+   programação, uma forma de ver o mundo, um ponto de vista.  
+
+O que é IDE?
+
+-> A sigla significa Ambiente de Desenvolvimento Integrado, uma solucão um 
+   programa que integra diversas ferramentas que permite que nos desemvolvemos 
+   nosso software com o nosso codigo.
+   

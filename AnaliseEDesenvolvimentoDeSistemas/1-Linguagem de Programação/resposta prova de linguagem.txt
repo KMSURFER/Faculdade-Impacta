@@ -1,0 +1,28 @@
+respostas prova de linguagem 
+
+1- 11%(5+4)**2-12/(2*3)
+
+2- todas as chamadas para uma mesma funcao compartilham o mesmo escopo , 
+   entao é sempre preciso limpar manualmente os dados da memoria em python
+   para evitar que a funcao used valores desatualizados para variaveis locais.
+
+3- apenas o comando if de receber um condicao, o comando else sera executado
+   quando a condicao do if for falsa 
+ 
+4- mamifero
+   anelideo
+   invertebrado desconhecido
+
+5- troca(lista)
+
+6- sao verdadeiras apenas II , III, V.
+
+7- x <= 10 and x > 25
+
+8- [56, 52, 48, 40, 39, 5]
+
+9- todas as afirmacoes são verdadeiras
+
+10- pertencimento , concatenacao e repeticao , indexacao e fatiamento , 
+    remocao de itens da sequencia
+

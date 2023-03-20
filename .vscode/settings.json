@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "bonificacao",
+        "devcontainers",
+        "monetizacao"
+    ],
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./Linguagem de Programação",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "Linguagem de Programação"
+    ]
+}

@@ -1,0 +1,45 @@
+TRADUÇÕES 
+
+if = se 
+else = então 
+not = não
+and = e
+or = ou 
+while = enquanto
+for i in range = para no intervalo
+
+
+QA api rest (arquitertura)
+
+Api externa
+documentacao de Api
+Bearer
+xunit
+scrum
+mocks
+payload
+API WEB SOCKET
+biblioteca do RestAssurance
+swagger
+Postman
+newman
+rest assured
+endpoint API 
+
+Java
+
+programa Cypress 
+(plugin cy.api)
+mapa mental 
+
+JUnit
+Jmeter
+medium
+
+allure
+allure report
+github actions
+
+SQL
+
+Lean Six Sigma
