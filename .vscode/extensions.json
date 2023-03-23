@@ -2,6 +2,12 @@
     "recommendations": [
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
-        "formulahendry.auto-complete-tag"
+        "formulahendry.auto-complete-tag",
+        "timkmecl.codegpt3",
+        "vscode-icons-team.vscode-icons",
+        "esbenp.prettier-vscode",
+        "tabnine.tabnine-vscode",
+        "hediet.vscode-drawio",
+        "ibm.output-colorizer"
     ]
 }

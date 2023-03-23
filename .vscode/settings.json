@@ -12,8 +12,11 @@
         "*test.py"
     ],
     "python.testing.pytestEnabled": true,
-    "python.testing.unittestEnabled": false,
+    "python.testing.unittestEnabled": true,
     "python.testing.pytestArgs": [
         "Linguagem de Programação"
-    ]
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
